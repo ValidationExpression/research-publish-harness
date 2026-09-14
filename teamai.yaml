@@ -1,5 +1,5 @@
-team: my-team
-description: TeamAI shared resources
+team: research-publish-agent
+description: TeamAI harness for research-publish-agent (skills, rules, and team knowledge)
 repo: https://github.com/ValidationExpression/research-publish-harness.git
 provider: github
 sharing:
